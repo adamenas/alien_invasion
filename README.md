@@ -1,2 +1,2 @@
 # alien_invasion
-exercício CIP
+https://adamenas.github.io/alien_invasion/index.html
